@@ -44,7 +44,7 @@ Data enrichment available as an addition to the data points extracted: <b>Based 
 
 <b>[Get the full Trustpilot dataset](https://brightdata.com/products/datasets/trustpilot)</b>.
 
-<h2>What are the TrustPilot datasets use cases?</h2>
+<h2>What are the Trustpilot datasets use cases?</h2>
 
 <h3>1. Monitor Customer Satisfaction</h3>
 Leverage Trustpilot reviews to assess customer satisfaction levels, uncovering recurring themes, trends, or issues related to different services or products. This analysis helps identify areas for improvement, ensuring a better customer experience and enabling data-driven decisions to enhance your offerings.
