@@ -6,26 +6,28 @@
 
 A Trustpilot sofware product reviews dataset sample of over 1000 records. Dataset was extracted using the <b>Bright Data API</b>.
 
-<h2>Some of the data points that are included in the dataset:</h2>
+<h2>Some of the data points that are included in the Trustpilot dataset:</h2>
 
-* ```review_id```: The unique identifier for the review
-* ```author_id```: The unique identifier for the author of the review
-* ```author```: The name of the author who wrote the review
-* ```position```: The position or role of the author
-* ```company_size```: The size or type of the author's company
-* ```stars```: The star rating given in the review, indicating the overall satisfaction
-* ```date```: The date when the review was posted
-* ```title```: The title or headline of the review
-* ```text```: The main content or body of the review, providing detailed information about the user's experience
-* ```tags```: Tags associated with the review, indicating key topics or categories
-* ```review_url```: The URL or link to the specific review
-* ```url```: Another URL associated with the review or related content
-* ```product_url```: The URL or link to the business being reviewed
-* ```page```: The page or location of the review within the Trustpilot website or platform
-* ```product_name```: The name of the product being reviewed
-* ```vendor_name```: The name of the vendor or provider of the product
-* ```pages```: Number of pages in the input
-* ```sort_filter```: Sort or filter option from input
+* ```company_name```: The name of the company
+* ```review_id```: Unique to each review
+* ```review_date```: The date the review was written
+* ```review_rating```: The rating given by the reviewer
+* ```review_title```: The title of the review
+* ```review_content```: The content of the review
+* ```is_verified_review```: True or False values
+* ```review_date_of_experience```: The date the reviewer received the service
+* ```reviewer_location```: Geographical location of the reviewer
+* ```reviews_posted_overall```: The amount of reviews written by the reviewer
+* ```review_replies```: Responses received from the company on the review
+* ```review_useful_count```: Likes received by other users on the review
+* ```reviewer_name```: Reviewer name
+* ```company_logo```: URL that links to the company logo
+* ```url```: URL that links directly to the main reviews page
+* ```company_rating_name```: Company rating in words
+* ```company_overall_rating```: Company rating in numbers between 1 to 5
+* ```is_verified_company```: True or False values
+* ```company_total_reviews```: The total number of reviews and their percentage distribution
+* ```5_star```: The number of reviews rated 5 stars and their percentage of total reviews
 
 And a lot more.
 
