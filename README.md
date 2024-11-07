@@ -2,7 +2,7 @@
 
 <h2>A sample dataset of 1001 Trustpilot business reviews</h2>
 
-![Trustpilot dataset header](https://github.com/luminati-io/Trustpilot-dataset-sample/blob/main/Trustpilot-datasets.png)
+![Trustpilot dataset header](https://github.com/luminati-io/Trustpilot-dataset-sample/blob/main/Trustpilot-datasets%20(2).png)
 
 A Trustpilot sofware product reviews dataset sample of over 1000 records. Dataset was extracted using the <b>Bright Data API</b>.
 
